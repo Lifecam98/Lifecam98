@@ -6,6 +6,7 @@ After +-5 years in the industry, I wanted to pursue my dream of working in the I
 I find a huge enjoyment creating something special and intriguing that the user have a good experience visiting or using. 
 Currently I am studying frontend development at Kodehode/JobLoop, with focus on React and JavaScript.
 
+
 ```
 const Me = {
     name: "Marius",
