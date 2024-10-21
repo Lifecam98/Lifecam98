@@ -26,4 +26,5 @@ const Me = {
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: 2012 Norwegian SoapBox car Champion.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lifecam98&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true) ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lifecam98&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lifecam98&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lifecam98&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true) 
