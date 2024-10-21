@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there, welcome to my GitHub page! 👋
 
-<!--
-**Lifecam98/Lifecam98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Marius, a young man from Tysnes, Norway, an island just south of Bergen. I used to work in the construction industry, more specific as an electrician.
+After +-5 years in the industry, I wanted to pursue my dream of working in the IT-industry, specifically in the frontend department.
 
-Here are some ideas to get you started:
+I find a huge enjoyment creating something special and intriguing that the user have a good experience visiting or using.
+Currently I am studying frontend development at Kodehode/JobLoop, with focus on React and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+const Me = {
+    name: "Marius",
+    level: 26,
+    class:"student",
+    gender: "he/him",
+    origin: "Tysnes",
+    hobbies: ["Gaming", "Development", "Fotball", ""],
+    };
+```
+
+
+- 🔭 I’m currently working on: Becoming a frontend developer.
+- 🌱 I’m currently learning: HTML, CSS, JavaScript, React.
+- 💬 Ask me about: Anything you would like to know about me!
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: 2012 Norwegian SoapBox car Champion.
+
