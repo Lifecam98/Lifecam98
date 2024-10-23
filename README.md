@@ -28,3 +28,6 @@ const Me = {
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lifecam98&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lifecam98&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true) 
+
+
+![vscode](https://github.com/user-attachments/assets/aa24d6a9-3404-4fb2-ab3b-9ed9caef62bd)
