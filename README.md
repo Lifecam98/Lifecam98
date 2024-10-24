@@ -29,8 +29,9 @@ const Me = {
 - ⚡ Fun fact: 2012 Norwegian SoapBox car Champion.
 
 # My stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lifecam98&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact) 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lifecam98&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true) 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lifecam98&theme=chartreuse-dark&hide_border=false" alt="Lifecam98's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api?username=Lifecam98&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" alt="Lifecam98's GitHub Stats" /> <br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lifecam98&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" alt="Lifecam98's GitHub Stats" />
 
 # My stack
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="120"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/figma.png" width="80" height= "100"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" width="150"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width="150"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width="150">
