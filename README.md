@@ -1,8 +1,7 @@
 ## Hi there, welcome to my GitHub page! 👋
 
 ### My background and aspirations
-My name is Marius, a young man from Tysnes, Norway, an island just south of Bergen. I used to work in the construction industry, more specific as an electrician.
-After +-5 years in the industry, I wanted to pursue my dream of working in the IT-industry, specifically in the frontend department.
+My name is Marius, a young man from Tysnes, Norway, an island just south of Bergen. I used to work in the construction industry, where I worked as an electrician on small and big projects. After +-5 years in the industry, I wanted to pursue my dream of working in the IT-industry, specifically in the frontend department.
 
 I find a huge enjoyment creating something special and intriguing that the user have a good experience visiting or using. 
 Currently I am studying frontend development at Kodehode/JobLoop, with focus on React and JavaScript.
