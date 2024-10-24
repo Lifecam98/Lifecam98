@@ -29,7 +29,7 @@ const Me = {
 - ⚡ Fun fact: 2012 Norwegian SoapBox car Champion.
 
 # My stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lifecam98&theme=chartreuse-dark&hide_border=false" alt="Lifecam98's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api?username=Lifecam98&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" alt="Lifecam98's GitHub Stats" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lifecam98&theme=chartreuse-dark&hide_border=false" alt="Lifecam98's GitHub Stats" width="400" /> <img src="https://github-readme-stats.vercel.app/api?username=Lifecam98&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" alt="Lifecam98's GitHub Stats" width="377"/> 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lifecam98&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" alt="Lifecam98's GitHub Stats" />
 
