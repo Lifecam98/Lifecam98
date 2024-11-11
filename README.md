@@ -16,7 +16,7 @@ const Me = {
     organization: "Kodehode",
     gender: "he/him",
     origin: "Tysnes",
-    hobbies: ["Gaming", "Development", "Fotball"],
+    hobbies: ["Gaming", "Development", "Fotball", "Formula1"],
     };
 ```
 
