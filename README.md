@@ -31,6 +31,7 @@ const Me = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lifecam98&theme=chartreuse-dark&hide_border=false" alt="Lifecam98's GitHub Stats" width="400" /> <img src="https://github-readme-stats.vercel.app/api?username=Lifecam98&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" alt="Lifecam98's GitHub Stats" width="377"/> 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lifecam98&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" alt="Lifecam98's GitHub Stats" />
+![](https://komarev.com/ghpvc/?username=lifecam98&color=16E700)
 
 # My stack
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="70"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/figma.png" width="45"><img src= https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/azure.svg width="75"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" width="75"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width="75"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width="75">
